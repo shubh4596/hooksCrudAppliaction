@@ -1,0 +1,52 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "emp_name": "shubham",
+      "emp_email": "shubh4596@gmail.com",
+      "emp_designation": "web developer",
+      "emp_location": "bangalore",
+      "emp_address": "3rd main , 7th coross , N.S Palya"
+    },
+    {
+      "id": 2,
+      "emp_name": "priya",
+      "emp_email": "dream.priya1959@gmail.com",
+      "emp_designation": "software tester",
+      "emp_location": "Waterford",
+      "emp_address": "Faker street"
+    },
+    {
+      "id": 3,
+      "emp_name": "isha",
+      "emp_email": "ishakumari73@gmail.com",
+      "emp_designation": "school teacher",
+      "emp_location": "Ranchi",
+      "emp_address": "Behind waxpol factory, Booty more , Ranchi"
+    },
+    {
+      "emp_name": "Mani",
+      "emp_email": "manigandan@gmail.com",
+      "emp_designation": "nodejs developer",
+      "emp_location": "bangalore",
+      "emp_address": "#3 , 3rd main , 7th cross , ns palya , btm",
+      "id": 4
+    },
+    {
+      "emp_name": "Vishal",
+      "emp_email": "vishal@gmail.com",
+      "emp_designation": "aws developer",
+      "emp_location": "bangalore",
+      "emp_address": "#78 , 4th cross , near telephone exchange",
+      "id": 6
+    },
+    {
+      "emp_name": "shashi kunal",
+      "emp_email": "shahsi@gmail.com",
+      "emp_designation": "fullstack developer",
+      "emp_location": "bangalore",
+      "emp_address": "jayanagar",
+      "id": 7
+    }
+  ]
+}
